@@ -1,0 +1,13 @@
+Image View                                    ‰   ‰
+                                              ‰   ‰
+DrawArea                                      ‰   ‰drawarea.h
+    Implementation                            ‰   ‰drawarea.cpp
+MainWindow                                    ‰   ‰mainwindow.h
+    Implementation                            ‰   ‰mainwindow.cpp
+Form                                          ‰   ‰mainwindow.ui
+                                              ‰   ‰
+Real Pixel                                    ‰   ‰RealPixel.h
+    Implementation                            ‰   ‰RealPixel.cpp
+Cubic interpolation                           ‰   ‰CubicInterpol/micros.dir
+                                              ‰   ‰
+Slice in 3Dent                                ‰   ‰/c/3Dent7/DNSLICE.CPP
