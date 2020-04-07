@@ -1,0 +1,7 @@
+Cubic Interpolation                           ‰   ‰cubint.h
+    Implementation                            ‰   ‰cubint.cpp
+                                              ‰   ‰
+Cubic Interpolation, sage                     ‰   ‰cubint.sage
+                                              ‰   ‰
+Band matrix                                   ‰   ‰bandmatrix.h
+    Implementation                            ‰   ‰bandmatrix.cpp

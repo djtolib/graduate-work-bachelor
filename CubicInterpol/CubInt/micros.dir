@@ -1,0 +1,14 @@
+Qt project                                    ‰   ‰PlotFunc.pro
+                                              ‰   ‰
+Draw Area                                     ‰   ‰drawarea.h
+    Implementation                            ‰   ‰drawarea.cpp
+                                              ‰   ‰
+mainwindow.h                                  ‰   ‰mainwindow.h
+mainwindow.cpp                                ‰   ‰mainwindow.cpp
+                                              ‰   ‰
+Cubic Polynomial                              ‰   ‰../micros.dir
+                                              ‰   ‰
+Form                                          ‰   ‰mainwindow.ui
+                                              ‰   ‰
+R2Graph                                       ‰   ‰R2Graph.h
+    Implementation                            ‰   ‰R2Graph.cpp
