@@ -41,7 +41,7 @@ void splineInterpolation(
             redSpline.nodes[nodeIdx].y = p.red();
             greenSpline.nodes[nodeIdx].y = p.green();
             blueSpline.nodes[nodeIdx].y = p.blue();
-            nodeX += dx;
+            nodeX += dx; 
         }
         if (splineType == 0) {
             redSpline.interpolateC2();
