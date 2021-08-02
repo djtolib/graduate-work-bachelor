@@ -118,7 +118,7 @@ void BandExtMatrix::print() const {
         for (int j = 0; j < n; ++j) {
             double v = 0.;
             if (i - d0 <= j && j <= i + d0 + d1 - 1)
-                v = at(i, j);
+                v = at(i, j); 
             printf("%9.3f ", v);
         }
         printf(" | %9.3f\n", right(i));
